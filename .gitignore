@@ -1,0 +1,6 @@
+    config.py
+    geckodriver.log
+    __pycache__
+    list_of_executes.txt
+    debug.log
+    chromedriver.exe
